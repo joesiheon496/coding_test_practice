@@ -1,6 +1,6 @@
 # 코딩 연습한거 올리기
 
-## [Programmers 문제](https://programmers.co.kr/,"Programmers link")
+## [Programmers 문제](https://programmers.co.kr/)
 ***
 ## 코딩 연습한것을 올려놓기
 > 파이썬
