@@ -13,4 +13,4 @@
 
   |문제 제목|링크|
   |-------------|-----|
-  |1번|링크|
+  |루시와 엘라 찾기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/%EB%A3%A8%EC%8B%9C%EC%99%80%EC%97%98%EB%9D%BC%EC%B0%BE%EA%B8%B0.md)|
