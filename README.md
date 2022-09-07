@@ -21,3 +21,4 @@
 |중성화 여부 파악하기|[링크](https://github.com/joesiheon496/coding_test_practice/tree/master/SQL)|22-09-01|
 |동물의 수 구하기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)|22-09-07|
 |중복 제거하기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/%EC%A4%91%EB%B3%B5%20%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0.md)|22-09-07|
+|DATETIME에서 DATE로 형변환|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/DATETIME%EC%97%90%EC%84%9C%20DATE%EB%A1%9C%20%ED%98%95%EB%B3%80%ED%99%98.md)|22-09-07|
