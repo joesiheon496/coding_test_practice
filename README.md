@@ -11,7 +11,7 @@
   |같은 숫자는 싫어|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%EA%B0%99%EC%9D%80%20%EC%88%AB%EC%9E%90%EB%8A%94%20%EC%8B%AB%EC%96%B4.md)|22-09-03|
   |최소 직사각형|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%EC%B5%9C%EC%86%8C%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95.md)|22-09-03|
   |신규 아이디 추천|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%EC%8B%A0%EA%B7%9C%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.md)|22-09-05|
- 
+ |신고 결과 받기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%EC%8B%A0%EA%B3%A0%20%EA%B2%B0%EA%B3%BC%20%EB%B0%9B%EA%B8%B0.md)|22-09-07|
 > SQL
 
 
