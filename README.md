@@ -19,3 +19,4 @@
   |루시와 엘라 찾기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/%EB%A3%A8%EC%8B%9C%EC%99%80%EC%97%98%EB%9D%BC%EC%B0%BE%EA%B8%B0.md)|기억x|
 |이름에 EL이 들어간것 찾기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/%EC%9D%B4%EB%A6%84%EC%97%90%20EL%EC%9D%B4%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94%EA%B2%83%20%EC%B0%BE%EA%B8%B0.md)|22-09-01|
 |중성화 여부 파악하기|[링크](https://github.com/joesiheon496/coding_test_practice/tree/master/SQL)|22-09-01|
+|동물의 수 구하기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/SQL/%EB%8F%99%EB%AC%BC%EC%9D%98%20%EC%88%98%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)|22-09-07|
