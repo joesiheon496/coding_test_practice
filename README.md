@@ -17,6 +17,7 @@
 |평균 구하기|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%ED%8F%89%EA%B7%A0%20%EA%B5%AC%ED%95%98%EA%B8%B0.md)|22-09-15|
 |약수의 합|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.md)|22-09-15|
 |정수 제곱근 판별|[링크](https://github.com/joesiheon496/coding_test_practice/blob/master/python/%EC%A0%95%EC%88%98%20%EC%A0%9C%EA%B3%B1%EA%B7%BC%20%ED%8C%90%EB%B3%84.md)|22-09-15|
+|자연수 뒤집어 배열|[링크](https://github.com/joesiheon496/coding_test_practice/tree/master/python)|22-09-15|
 
 > SQL
 
